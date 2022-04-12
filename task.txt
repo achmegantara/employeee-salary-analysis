@@ -3,9 +3,9 @@
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
 4.  Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
 5. Check Null Values In The Dataset
-6. Drop ID, Notes, Agency, and Status Columns
+6. Drop ID, Notes, Agency, and Status Column
 7. Get Overall Statistics About The Dataframe
-8. Find Occurrence of The Employee Names  (Top 5)
+8. Find Occurrence of The Employee Names(Top 5)
 9. Find The Number of Unique Job Titles
 10.Total Number of Job Titles Contain Captain
 11. Display All the Employee Names From Fire Department
