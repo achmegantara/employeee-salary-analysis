@@ -10,7 +10,7 @@
 10.Total Number of Job Titles Contain Captain
 11. Display All the Employee Names From Fire Department
 12. Find Minimum, Maximum, and Average BasePay
-13. Replace 'Not Provided' in EmployeeName' Column to NaN 
+13. Replace 'Not Provided' in EmployeeName Column to NaN 
 14. Drop The Rows Having 5 Missing Values
 15. Find Job Title of ALBERT PARDINI
 16. How Much ALBERT PARDINI Make (Include Benefits)?
