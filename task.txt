@@ -6,7 +6,7 @@
 6. Drop ID, Notes, Agency, and Status Column
 7. Get Overall Statistics About The Dataframe
 8. Find Occurrence of The Employee Names(Top 5)
-9. Find The Number of Unique Job Titles
+9. Find The Number of Unique Job Title
 10.Total Number of Job Titles Contain Captain
 11. Display All the Employee Names From Fire Department
 12. Find Minimum, Maximum, and Average BasePay
