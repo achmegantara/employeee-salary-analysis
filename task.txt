@@ -11,7 +11,7 @@
 11. Display All the Employee Names From Fire Department
 12. Find Minimum, Maximum, and Average BasePay
 13. Replace 'Not Provided' in EmployeeName Column to NaN 
-14. Drop The Rows Having 5 Missing Values
+14. Drop The Rows Having 5 Missing Value
 15. Find Job Title of ALBERT PARDINI
 16. How Much ALBERT PARDINI Make (Include Benefits)?
 17.Display Name of The Person Having The Highest BasePay
