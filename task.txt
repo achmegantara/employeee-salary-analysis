@@ -5,13 +5,13 @@
 5. Check Null Values In The Dataset
 6. Drop ID, Notes, Agency, and Status Column
 7. Get Overall Statistics About The Datafram
-8. Find Occurrence of The Employee Names(Top 5)
+8. Find Occurrence of The Employee Names(Top 5) 
 9. Find The Number of Unique Job Title
 10.Total Number of Job Titles Contain Captain
 11. Display All the Employee Names From Fire Department
 12. Find Minimum, Maximum, and Average BasePay
 13. Replace 'Not Provided' in EmployeeName Column to NaN 
-14. Drop The Rows Having 5 Missing Value
+14. Drop The Rows Having 5 Missing Values
 15. Find Job Title of ALBERT PARDINI
 16. How Much ALBERT PARDINI Make (Include Benefits)?
 17.Display Name of The Person Having The Highest BasePay
