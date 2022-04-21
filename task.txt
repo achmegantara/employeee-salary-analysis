@@ -1,5 +1,5 @@
-1.  Display Top 10 Rows of The Dataset
-2. Check Last 10 Rows of The Dataset
+1.  Display Top 10 Rows of The Datasets
+2. Check Last 10 Rows of The Datasets
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
 4.  Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
 5. Check Null Values In The Dataset
